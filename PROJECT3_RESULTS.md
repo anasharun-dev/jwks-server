@@ -51,7 +51,7 @@ Actual Gradebot result: **99.21%**. All functional and security checks received 
 ## Repository status
 
 - Local repository: initialized on `main` at `C:\Users\anash\Documents\CSCE3550\Project3\CSCE3550-Project3`.
-- Remote: `https://github.com/anasharun-dev/CSCE3550-Project3.git`.
+- Remote: `https://github.com/anasharun-dev/jwks-server.git`.
 - Commit and push: `main` was pushed successfully, and the remote commit and required file tree were verified against the local repository.
 - Original Project 2 ZIP remains unchanged.
 

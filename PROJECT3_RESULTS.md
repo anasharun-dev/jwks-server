@@ -51,10 +51,10 @@ Actual Gradebot result: **99.21%**. All functional and security checks received 
 ## Repository status
 
 - Local repository: initialized on `main` at `C:\Users\anash\Documents\CSCE3550\Project3\CSCE3550-Project3`.
-- Remote: `https://github.com/anasharun-dev/CSCE3550-Project3.git` (verified to exist and currently empty before submission).
-- Commit and push: screenshots are present; final repository audit is in progress.
+- Remote: `https://github.com/anasharun-dev/CSCE3550-Project3.git`.
+- Commit and push: `main` was pushed successfully, and the remote commit and required file tree were verified against the local repository.
 - Original Project 2 ZIP remains unchanged.
 
 ## Remaining issues
 
-- Run the final secret/tracked-file check, commit, push, and verify the remote.
+- None.

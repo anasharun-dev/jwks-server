@@ -1,0 +1,30 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Databases and journals
+*.db
+*.db-journal
+*.db-shm
+*.db-wal
+
+# Go output and local caches
+*.exe
+*.test
+coverage.out
+.gocache/
+.gomodcache/
+
+# Gradebot and temporary files
+gradebot
+gradebot.exe
+gradebot.tar.gz
+*.bak
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
